@@ -1,20 +1,37 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Working with the HTML Audio Element</title>
-</head>
-<body>
-  <h1>freeCodeCamp Tunes</h1>
-  <h2>Can't Stay Down</h2>
-  <p>Artist: Quincy Larson</p>
-  <audio src="https://cdn.freecodecamp.org/curriculum/js-music-player/can't-stay-down.mp3" loop controls></audio>
-  <h2>Cruising for a Musing</h2>
-  <p>Artist: Quincy Larson</p>
-  <audio src="https://cdn.freecodecamp.org/curriculum/js-music-player/cruising-for-a-musing.mp3" loop controls></audio>
-<h2>Scratching the Surface</h2>
-<p>Artist: Quincy Larson</p>
-<audio src="https://cdn.freecodecamp.org/curriculum/js-music-player/scratching-the-surface.mp3" loop controls></audio>  
-</body>
-</html>
+# freeCodeCamp Tunes
+
+A simple web page with three audio players, each showing a song title and artist. Built as part of the freeCodeCamp curriculum.
+
+## Live Demo
+
+[View the project](https://aqeelahlabs.github.io/YOUR-REPO-NAME/)
+
+## Features
+
+- A page title and three songs, each with a heading and artist name
+- Built-in audio players with playback controls
+- Looping enabled on every track
+
+## What I Practised
+
+- Structuring a basic HTML5 page
+- Embedding audio with the `audio` element
+- Using the `src`, `controls` and `loop` attributes
+- Creating a heading hierarchy with `h1` and `h2`
+- Making the page responsive with the viewport `meta` tag
+
+## Built With
+
+- HTML5
+
+## Run It Locally
+
+1. Clone the repository:
+```
+   git clone https://github.com/aqeelahlabs/YOUR-REPO-NAME.git
+```
+2. Open `index.html` in your browser.
+
+## Author
+
+Aqeelah, [@aqeelahlabs](https://github.com/aqeelahlabs)
