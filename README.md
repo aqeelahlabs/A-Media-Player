@@ -4,7 +4,7 @@ A simple web page with three audio players, each showing a song title and artist
 
 ## Live Demo
 
-[View the project](https://aqeelahlabs.github.io/YOUR-REPO-NAME/)
+ https://aqeelahlabs.github.io/A-Media-Player/
 
 ## Features
 
