@@ -28,7 +28,7 @@ A simple web page with three audio players, each showing a song title and artist
 
 1. Clone the repository:
 ```
-   git clone https://github.com/aqeelahlabs/YOUR-REPO-NAME.git
+   https://github.com/aqeelahlabs/A-Media-Player.git
 ```
 2. Open `index.html` in your browser.
 
